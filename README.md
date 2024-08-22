@@ -33,11 +33,17 @@ Aplicația va procesa automat datele și va afișa rezultatele în fereastra tex
 
             NUMBER CARD:  1234 56789 1
 USERS:
+
     - 1 JOHN A CITIZEN
+    
     - 2 JAME A CITIZEN
+    
     - 3 JAMES A CITIZEN
+    
     - 4 JESSICA A CITIZEN
+    
                                     VALID TO: 09/2020
+                                    
 Structura Proiectului
 
 Aplicatie.java: Clasa principală care conține logica aplicației, inclusiv încărcarea fișierului, procesarea datelor și afișarea rezultatului.
